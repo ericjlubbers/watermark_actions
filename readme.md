@@ -10,3 +10,7 @@
 2. Double-click to automatically install in Photoshop  
 3. Hit Alt+F9 to open Actions tab  
 4. Select folder for old Social Watermarks and hit the trash can icon at the bottom of the tab to clean up your tabs.  
+
+##REQUIREMENTS
++ Currently, you must be connected to the O: Drive
++ A future version will be available to save to your machine locally in your C drive to get around that requirement. _Stay tuned_
